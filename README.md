@@ -18,5 +18,6 @@ User story:
 
 ## Assets
 
-The following image demonstrates the web application's appearance:
-![](./Develop/assets/images/screencapture-file-Users-nenebeji-Documents-bootcamp-challenges-Challenge-one-urban-octo-telegram-Develop-index-html-2022-07-05-23_44_12.png)
+The following link demonstrates the web application's appearance:
+
+https://nenebeji.github.io/01-UBIRM-PROJECT/
