@@ -21,3 +21,5 @@ User story:
 The following link demonstrates the web application's appearance:
 
 https://nenebeji.github.io/01-UBIRM-PROJECT/
+
+![screencapture-nenebeji-github-io-01-UBIRM-PROJECT-2022-07-06-16_42_41](https://user-images.githubusercontent.com/105363883/177591227-e831d4b5-8268-4664-a921-9379368af7b6.png)
