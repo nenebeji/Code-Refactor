@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     /* adds padding to the header */
     padding: 20px;
     /* sets font family of the header */
@@ -21,39 +21,39 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     /* sets display of header to inline in a block */
     display: inline-block;
     /* sets h1 font size */
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     /* sets text colour for the seo element */
     color: #d9dcd6;
 }
 
-.header div {
-    /* Adds padding to the top of header element */
+header nav {
+    /* Adds padding to the top of nav element */
     padding-top: 15px;
-    /* adds margin at the right of header */
+    /* adds margin at the right of nav element */
     margin-right: 20px;
-    /* sets header to move to the top right */
+    /* sets nav element to move to the top right */
     float: right;
-    /* sets header font type and size */
+    /* sets the nav element font type and size */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-.header div ul {
-    /* sets the list style type for the header element to none */
+header nav ul {
+    /* sets the list style type for the ul element to none */
     list-style-type: none;
 }
 
-.header div ul li {
-    /* sets the display of list to inline and block */
+header nav ul li {
+    /* sets the display of li element to inline and block */
     display: inline-block;
-    /* adds left margin to list element */
+    /* adds left margin to li element */
     margin-left: 25px;
 }
 
@@ -97,9 +97,9 @@ p {
 }
 
 .content {
-    /* sets the width of the element */
+    /* sets the width of the content element */
     width: 75%;
-    /* sets the diplay to inline and block */
+    /* sets the diplay of the content element to inline and block */
     display: inline-block;
     /* adds 20px to the left margin */
     margin-left: 20px;
@@ -184,21 +184,21 @@ p {
 }
 
 .benefits {
-    /* adds 20px to the right margin */
+    /* adds 20px to the right margin of the benefit element */
     margin-right: 20px;
-    /* adds padding to the element */
+    /* adds padding to the benefits element */
     padding: 20px;
-    /* sets the elements to be pushed to both the left and the right of floated elements */
+    /* sets the elements to be pushed to both the left and the right of floated  benefits elements */
     clear: both;
-    /* sets the element to move to the top right */
+    /* sets the benefits element to move to the top right */
     float: right;
-    /* sets the width of the element */
+    /* sets the width of the benefits element */
     width: 20%;
-    /* sets the height of the elememt */
+    /* sets the height of the benefits elememt */
     height: 100%;
-    /* sets the font family of the element */
+    /* sets the font family of the benefits element */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* sets the background colour */
+    /* sets the background colour for the benefits class elements */
     background-color: #2589bd;
 }
 
@@ -268,18 +268,18 @@ p {
     max-width: 150px;
 }
 
-.footer {
+footer {
     /* adds padding to the footer element */
     padding: 30px;
     /* sets the elements to be pushed to both the left and the right of floated elements */
     clear: both;
     /* sets the font family */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    /* sets the text alignment to center */
+    /* sets the text alignment of footer element to center */
     text-align: center;
 }
 
-.footer h2 {
-    /* sets the font size of the footer to 20px */
+footer h4 {
+    /* sets the font size of the footer h4 element to 20px */
     font-size: 20px;
 }
