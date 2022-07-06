@@ -18,7 +18,7 @@ User story:
 
 ## Assets
 
-The following link demonstrates the web application's appearance:
+The following link and image demonstrates the web application's appearance:
 
 https://nenebeji.github.io/01-UBIRM-PROJECT/
 
