@@ -8,7 +8,7 @@
 
 * Description
 
-* * Problems Solved
+ * Problems Solved
 
 * References
 
