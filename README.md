@@ -1,25 +1,36 @@
-# Code Refactor Starter Code
-
-User story:
-
-* As a developer, I want to refactor a code so that the codebase follows the clients accessibility standards so that their site is optimised for search engines.
-
-## Acceptance Criteria
-
-* It's done when the source code has semantic HTML elements.
-
-* It's done when the HTML elements follow a logical structure, independent of the styling and positioning.
-
-* It's done when image elements have accessible alt attributes.
-
-* It's done when heading attributes fall in sequential order.
-
-* It's done when the title element is concise and descriptive.
-
-## Assets
-
-The following link and image demonstrates the web application's appearance:
-
-https://nenebeji.github.io/01-UBIRM-PROJECT/
+# Code Refactor (PROJECT 1)
 
 ![screencapture-nenebeji-github-io-01-UBIRM-PROJECT-2022-07-06-16_42_41](https://user-images.githubusercontent.com/105363883/177591227-e831d4b5-8268-4664-a921-9379368af7b6.png)
+
+> Hoseon!
+
+## Table of Contents
+
+* Description
+
+* How to Use
+
+* References
+
+## Description
+
+The aim of the project is to refactor the code for this web page so that the codebase follows the clients accessibility standards and their website is optimised for search engines.
+
+### Problems Solved
+
+* Inserted id for the search engine optimization on the navigation, to make all the application link work properly.
+
+* Implemented semantic elements in HTML source code
+
+* HTML elements follow a logical structure, independent of the styling and positioning.
+
+* Included accessible alt attributes to image elements.
+
+* Heading attributes fall in sequential order.
+
+* Made the title descriptive and concise.
+
+
+## References
+
+https://nenebeji.github.io/01-UBIRM-PROJECT/
