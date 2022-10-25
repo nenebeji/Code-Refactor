@@ -1,5 +1,5 @@
 # Code Refactor
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)![HTML](https://img.shields.io/badge/html-blueviolet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![HTML](https://img.shields.io/badge/html-blueviolet)
 
 ## Table of Contents
 
