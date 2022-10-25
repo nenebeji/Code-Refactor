@@ -33,4 +33,4 @@ The aim of the project is to refactor the code for this web page so that the cod
 
 ## References
 
-https://nenebeji.github.io/01-UBIRM-PROJECT/
+https://nenebeji.github.io/Code-Refactor/
